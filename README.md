@@ -441,4 +441,4 @@ The crate provides both:
 - `xp3_brute`: reusable Rust library;
 - `xp3brute`: command-line frontend.
 
-Detailed implementation notes belong under `docs/`. This README intentionally focuses on normal installation, extraction, conversion, rebuilding, and troubleshooting workflows.
+Detailed implementation notes belong under `docs/`. This README intentionally focuses on normal installation, extraction, conversion, rebuilding, and troubleshooting workflows. 
